@@ -1,24 +1,16 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Ahmet Çevrim! 👋
 
-- 🔭 I’m currently working on [Your Project Name](link-to-project).
-- 🌱 I’m learning [Technology/Tool].
-- 💬 Ask me about [Topics].
-- 📫 How to reach me: [Your Email or Social Links].
-- ⚡ Fun fact: [Something Interesting About You].
-
-## 🌟 My Skills
-- **Languages**: Java, Python, C++
-- **Frameworks**: Spring Boot, Django, React
-- **Tools**: Docker, Git, Kubernetes
+- 🌱 I’m learning Java-Golang.
+- 📫 How to reach me: ahmet.cevrim@bilgiedu.net
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cevrimxe&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cevrimxe&layout=compact&theme=radical)
 
 ## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=cevrimxe&theme=radical)
 
 
 <!---
