@@ -3,16 +3,11 @@
 - 🌱 I’m learning Java-Golang.
 - 📫 How to reach me: ahmet.cevrim@bilgiedu.net
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cevrimxe&show_icons=true&theme=radical&cache_seconds=1800
-)
+![cevrimxe's Stats](https://github-readme-stats.vercel.app/api?username=cevrimxe&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cevrimxe&layout=compact&theme=radical&cache_seconds=1800
-)
+![cevrimxe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cevrimxe&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=cevrimxe&theme=radical&cache_seconds=1800)
+![cevrimxe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cevrimxe&theme=vue-dark&hide_border=true)
 
 
 <!---
