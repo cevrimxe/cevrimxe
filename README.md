@@ -22,7 +22,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cevrimxe&show_icons=true&theme=radical&cache_seconds=60)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cevrimxe&show_icons=true&theme=radical&cache_seconds=1800)
 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cevrimxe&layout=compact&theme=radical&cache_seconds=1800)
